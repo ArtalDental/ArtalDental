@@ -1,0 +1,34 @@
+/*
+ * Droid Arabic Kufi (Arabic) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.eot);
+  src: url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.eot?#iefix) format('embedded-opentype'),
+       url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 700;
+  src: url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Bold.eot);
+  src: url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Bold.eot?#iefix) format('embedded-opentype'),
+       url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Bold.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Bold.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Bold.ttf) format('truetype');
+}
+ 
+h1 , h2 , h3 , h4 , h5 , h6 , h7 , p , ul , li {
+
+  font-family: 'Droid Arabic Kufi';
+
+}
+.widget-title, .widget-title a, .tribe-events-list-event-title, #tribe-geo-results .tribe-events-list-event-title, #tribe-geo-options .tribe-events-list-event-title, .tribe-events-single-section-title, .tribe-events-map-event-title, .p1, .accordion_title .main-menu .menu-item, .main-menu .menu-item a, .mobile_menu_header {font-family: 'Droid Arabic Kufi';}
+.main-menu,  {float:left;}
+.logo{float:right;}
+
+.cws-widget .wpcf7-form .wpcf7-form-control .wpcf7-list-item {margin-right: 50px;}
